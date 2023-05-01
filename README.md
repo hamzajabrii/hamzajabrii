@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js & Node.js
 - 📫 How to reach me:
 Email Address: jabri.hamza@outlook.fr
-WhatsApp: +216 95323050
+WhatsApp: +1 (514) 229-9279
 
 <!---
 hamzajabrii/hamzajabrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
